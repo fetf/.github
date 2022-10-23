@@ -1,7 +1,7 @@
 ## Hackathons
 Hackathon group with several projects that will be posted here
 
-## Projects
+## Group Projects
 
 <!--
 
