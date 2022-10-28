@@ -1,5 +1,5 @@
 ## Hackathons
-Hackathon group with several projects that will be posted here
+Hackathon team with several projects that will be posted here
 
 ## Group Projects
 
