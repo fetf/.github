@@ -4,19 +4,19 @@ Hackathon team with several projects that will be posted here
 #### [**AssistSpeak**](https://github.com/fetf/AssistSpeak)
 > Hackathon Project: Winner of **Most Creative Use of Twilio** at [Girls Hoo Hack 2021](https://www.gwcuva.com/hack) ([Devpost](https://girls-hoo-hack-2021.devpost.com/))  
 > Written by [Richard Sbaschnig](https://github.com/RichardSba), [Victor Liu](https://github.com/notvictorl)  
-> A virtual assistant that works on any mobile phone using talk and text. ([Video Demo](https://youtu.be/tCQJtKbdkGI))  
+> A virtual assistant that works on any mobile phone using talk and text. ([Video Demo](https://youtu.be/tCQJtKbdkGI))
 > - Python, Twilio API, AssemblyAI, and Wolfram  API  
 
 #### [**Barcode/QR Scanner App**](https://github.com/fetf/Barcode-QR-Scanner)
 > Hackathon Project: Winner of **Best in Entertainment** at [QuHacks2020](https://quhacks.tech/) ([Devpost](https://quhacks2020.devpost.com/))    
 > Written by [Richard Sbaschnig](https://github.com/RichardSba), [Victor Liu](https://github.com/notvictorl), Julian Chavez  
-> A mobile app that scans barcodes and QR codes then saves them in a history. ([Video Demo](https://youtu.be/fGIddomfrzs))  
+> A mobile app that scans barcodes and QR codes then saves them in a history. ([Video Demo](https://youtu.be/fGIddomfrzs))
 > - JavaScript, React-Native, and Expo  
 
 #### [**3D AR Grapher**](https://github.com/fetf/3D-AR-Grapher)
 > Hackathon Project: Submitted to [ThetaHacks 2021](https://thetahacks.tech/) ([Devpost](https://thetahacks.devpost.com/))  
 > Written by [Richard Sbaschnig](https://github.com/RichardSba), [Victor Liu](https://github.com/notvictorl), Julian Chavez  
-> Models 3D graphs and can see them in augmented reality. ([Video Demo](https://youtu.be/tCQJtKbdkGI))  
+> Models 3D graphs and can see them in augmented reality. ([Video Demo](https://youtu.be/tCQJtKbdkGI))
 > - JavaScript, HTML, Python Flask, Wolfram Alpha API, and EchoAR  
 
 ## Group Projects
