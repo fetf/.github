@@ -20,7 +20,7 @@ Hackathon team with several projects that will be posted here
 > - JavaScript, HTML, Python Flask, Wolfram Alpha API, and EchoAR  
 
 ## Group Projects
-to be updated
+To Be Updated
 <!--
 
 **Here are some ideas to get you started:**
