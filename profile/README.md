@@ -2,13 +2,13 @@
 Hackathon team with several projects that will be posted here
 
 #### [**AssistSpeak**](https://github.com/fetf/AssistSpeak)
-> Hackathon Project: Winner of **Most Creative Use of Twilio** at [Girls Hoo Hack 2021](https://www.gwcuva.com/hack) ([Devpost](https://girls-hoo-hack-2021.devpost.com/))
+> Hackathon Project: Winner of **Most Creative Use of Twilio** at [Girls Hoo Hack 2021](https://www.gwcuva.com/hack) ([Devpost](https://girls-hoo-hack-2021.devpost.com/))  
 > Written by [Richard Sbaschnig](https://github.com/RichardSba), [Victor Liu](https://github.com/notvictorl)  
 > A virtual assistant that works on any mobile phone using talk and text. [Video Demo](https://youtu.be/tCQJtKbdkGI)
 > - Python, Twilio API, AssemblyAI, and Wolfram  API  
 
 #### [**Barcode/QR Scanner App**](https://github.com/fetf/Barcode-QR-Scanner)
-> Hackathon Project: Winner of **Best in Entertainment** at [QuHacks2020](https://quhacks.tech/) ([Devpost](https://quhacks2020.devpost.com/))  
+> Hackathon Project: Winner of **Best in Entertainment** at [QuHacks2020](https://quhacks.tech/) ([Devpost](https://quhacks2020.devpost.com/))    
 > Written by [Richard Sbaschnig](https://github.com/RichardSba), [Victor Liu](https://github.com/notvictorl), Julian Chavez  
 > A mobile app that scans barcodes and QR codes then saves them in a history. [Expo Snack(Updated 2022)](https://snack.expo.dev/@liuvictor/6c22f0) [Video Demo](https://youtu.be/fGIddomfrzs)  
 > - JavaScript, React-Native, and Expo  
